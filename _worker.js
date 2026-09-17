@@ -1,4 +1,4 @@
-// CFnew - 终端 v3.0
+// CFnew - 终端 v2.9
 // 版本: v3.0 
 import { connect as 连接 } from 'cloudflare:sockets';
 const 基础64文本解码器 = new TextDecoder();
